@@ -1,0 +1,38 @@
+body {
+	background-image: url('../images/morning-guys.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+
+.wrapper {
+	text-align: center;
+}
+
+.wrapper input {
+	text-align: center;
+}
+
+h1 {
+	color: #fff;
+	text-shadow: 1px 1px 1px #000;
+	margin-top: 180px;
+	font-size:3.5rem;
+	
+}
+
+.credit {
+	font-size: 0.8rem;
+	margin-top: 20rem;
+	color: #fff;
+}
+
+.register {
+	margin: 1rem auto 0.5rem auto;
+	text-align: center;
+}
+
+#mc_embed_signup form {
+	text-align: center !important;
+}
